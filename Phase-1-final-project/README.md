@@ -1,5 +1,7 @@
-Project Title: Dictionary App
-Name: Evans Gitahi
+Project Title: DICTIONARY APP
+
+Name: EVANS GITAHI
+
 Project description:
     The purpose of this application is to enable a user to know the following for english words:
         1. Meaning  
@@ -20,3 +22,7 @@ Project description:
     
     Challenges:
         1.Details such as example in a sentence, synonyms and pronunciation are not available for all words.
+
+    License information: MIT license https://github.com/gitahievans/Final-project/blob/main/LICENSE
+
+    
