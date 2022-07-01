@@ -1,5 +1,5 @@
 # Final-project
-Dictionary App
+DICTIONARY APP
 
 Name: EVANS GITAHI
 
