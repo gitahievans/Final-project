@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const example = document.querySelector(".example p")
     let voice = document.querySelector(".voice button")
     let wordDetails = document.querySelector(".details p")
-    let input = document.querySelector("#to-search")
+    let input = document.querySelector("#to-search") 
 
 
     async function fetchData(word){

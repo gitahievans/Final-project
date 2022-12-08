@@ -1,13 +1,7 @@
-<<<<<<< HEAD
 Project Title: DICTIONARY APP
 
 Name: EVANS GITAHI
 
-=======
-# Final-project
-Project Title: Dictionary App
-Name: Evans Gitahi
->>>>>>> 1fc631cdb217efe7432af51a059f2ff2942ed933
 Project description:
     The purpose of this application is to enable a user to know the following for english words:
         1. Meaning  
@@ -23,16 +17,13 @@ Project description:
 
     The above functionalities will be enabled through JavaScript programming. Event listeners available in the dictionary app will be ‘DOMContent loaded’, click for the search icon and ‘click’ for the pronunciation button. HTML will be used to create the document while CSS will be used to style the document.
     
-    API: Free dictionary API
-        I will use the API to access data that is the meaning of the words and their synonyms. The API provides the data in JSON format. I will therefore have to convert it in Javascript code for easy access of the elements.
-    
-    Challenges:
-<<<<<<< HEAD
-        1.Details such as example in a sentence, synonyms and pronunciation are not available for all words.
+Challenges:
 
-    License information: MIT license https://github.com/gitahievans/Final-project/blob/main/LICENSE
-
-    
-=======
         Details such as example in a sentence, synonyms and pronunciation are not available for all words.
->>>>>>> 1fc631cdb217efe7432af51a059f2ff2942ed933
+
+API: Free dictionary API (https://api.dictionaryapi.dev/api/v2/entries/en/<word>)
+        I will use the API to access data that is the meaning of the words and their synonyms. The API provides the data in JSON format. I will therefore have to convert it in Javascript code for easy access of the elements.
+
+License information: MIT license https://github.com/gitahievans/Final-project/blob/main/LICENSE
+
+Github-pages: https://gitahievans.github.io/Final-project/ 
